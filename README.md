@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/LukeGardener
 [wordpress]: https://arkumbra.wordpress.com/
-[codinggame]: https://www.codingame.com/profile/e9a24a287f814f2d8ed41f1d07a7e9844572653
+[codingame]: https://www.codingame.com/profile/e9a24a287f814f2d8ed41f1d07a7e9844572653
